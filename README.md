@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Sql
 - 💞️ I’m looking to collaborate on Amazon
 - 📫 How to reach me hassan.brave.ads@gmail.com
-- 😄 Pronouns: he him
+
 
 
 <!---
